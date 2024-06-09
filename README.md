@@ -1,4 +1,4 @@
-👋 Hi, I’m @Paulmulenga01
+👋 Hi, I’m @Paul
 👀 Interests: Cloud Engineering, DevSecOps, and Site Reliability Engineering (SRE).
 🌱 Currently Learning: Advanced Kubernetes and Terraform techniques, and implementing robust security practices.
 💼 Expertise:
