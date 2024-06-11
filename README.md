@@ -1,6 +1,8 @@
 👋 Hi, I’m @Paul
-👀 Interests: Cloud Engineering, DevSecOps, and Site Reliability Engineering (SRE).
-🌱 Currently Learning: Advanced Kubernetes and Terraform techniques, and implementing robust security practices.
+👀 Interests: 
+Cloud Engineering, DevSecOps, and Site Reliability Engineering (SRE).
+🌱 Currently Learning: 
+Advanced Kubernetes and Terraform techniques, and implementing robust security practices.
 💼 Expertise:
 Cloud Platforms: AWS, Azure, GCP
 Containerization: Docker, Kubernetes
